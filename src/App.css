@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+button{
+    border: none;
+    cursor: pointer;
+    color: white;
+    transition: all 0.5s;
+    background-color: tomato;
+    font: 500 1vmax "Roboto";
+    border-radius: 20px;
+    padding: 0.5vmax 2vmax;
+    outline: none;
+}
+
+/*button:hover:not(.change){
+    background-color: #eb4034;
+}*/
